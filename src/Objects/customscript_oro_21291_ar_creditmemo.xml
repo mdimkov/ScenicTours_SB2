@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_oro_21291_ar_creditmemo">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>AR Credit Memo (ar_creditmemo.js)</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/_oro_21291_tm1_integration/scripts/restlet/_oro_21291_ar_creditmemo.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_oro_21291_ar_creditmemo">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>AUDIT</loglevel>
+      <status>RELEASED</status>
+      <title>AR Credit Memo (ar_creditmemo.js)</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

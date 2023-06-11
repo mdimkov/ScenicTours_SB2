@@ -1,0 +1,22 @@
+<restlet scriptid="customscript_oro_21291_rl_tm1_gl_tmargin">
+  <description></description>
+  <isinactive>F</isinactive>
+  <name>oro 21291 Restlet TM1 GL Tour Margin</name>
+  <notifyadmins>F</notifyadmins>
+  <notifyemails></notifyemails>
+  <notifyowner>T</notifyowner>
+  <notifyuser>F</notifyuser>
+  <scriptfile>[/SuiteScripts/_oro_21291_tm1_integration/scripts/restlet/_oro_21291_rl_tm1_gl_tour_margin.js]</scriptfile>
+  <scriptdeployments>
+    <scriptdeployment scriptid="customdeploy_oro_21291_rl_tm1_gl_tmargin">
+      <allemployees>T</allemployees>
+      <allpartners>F</allpartners>
+      <allroles>T</allroles>
+      <audslctrole></audslctrole>
+      <isdeployed>T</isdeployed>
+      <loglevel>DEBUG</loglevel>
+      <status>RELEASED</status>
+      <title>oro 21291 Restlet TM1 GL Tour Margin</title>
+    </scriptdeployment>
+  </scriptdeployments>
+</restlet>

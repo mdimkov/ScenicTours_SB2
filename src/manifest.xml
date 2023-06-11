@@ -1,0 +1,26 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>ScenicTours_SB2</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+      <feature required="true">SERVERSIDESCRIPTING</feature>
+      <feature required="false">CRM</feature>
+      <feature required="false">CREATESUITEBUNDLES</feature>
+      <feature required="false">MULTILANGUAGE</feature>
+      <feature required="false">CUSTOMSEGMENTS</feature>
+      <feature required="false">EXTREMELIST</feature>
+      <feature required="false">MAILMERGE</feature>
+      <feature required="true">CUSTOMRECORDS</feature>
+    </features>
+    <objects>
+      <object>customrecord_cseg_oro_brand</object>
+      <object>customrole_oro_21k_integration</object>
+      <object>custtab_6_6796187_sb1_691</object>
+      <object>customrecord_oro_sub_type</object>
+      <object>customrecord_2663_file_admin</object>
+      <object>customrecord_cseg_oro_tour.tab_2_6796187_sb1_907</object>
+      <object>customrecord_cseg_oro_tour</object>
+    </objects>
+    <files/>
+  </dependencies>
+</manifest>
